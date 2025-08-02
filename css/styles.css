@@ -71,12 +71,12 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #2e2f42;
     margin-right: 76px;
 }
 
-.logo-studio {
-    color: #2e2f42;
+.logo-accent {
+    color: #4d5ae5;
 }
 
 .nav-list {
