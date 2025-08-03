@@ -6,9 +6,6 @@ body {
 }
 
 /* Reset */
-/* * {
-    box-sizing: border-box;
-} */
 
 h1,
 h2,
@@ -92,7 +89,6 @@ ol {
 .hero {
     margin-top: 72px;
     background-color: #2e2f42;
-    height: 600px;
 }
 
 .hero-title {
@@ -101,7 +97,6 @@ ol {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    max-width: 496px;
     margin: 0 auto 48px;
 }
 
@@ -193,7 +188,6 @@ ol {
 
 .portfolio-info {
     border: 1px solid #e7e9fc;
-    border-top: none;
 }
 
 .portfolio-name {
@@ -224,7 +218,6 @@ ol {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    display: inline-block;
     margin-bottom: 16px;
 }
 
@@ -236,5 +229,4 @@ ol {
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
-    max-width: 264px;
 }
