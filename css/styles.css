@@ -23,7 +23,6 @@ p {
 ul,
 ol {
     margin: 0;
-    padding: 0;
 }
 
 
@@ -62,7 +61,6 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding: 24px 0;
 }
 
 .nav-link:hover {
@@ -79,7 +77,6 @@ ol {
 }
 
 .address-link {
-    padding: 24px 0;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -117,7 +114,6 @@ ol {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    padding: 16px 32px;
     border: none;
 }
 
@@ -127,9 +123,6 @@ ol {
 }
 
 /* Features Section */
-.features {
-    padding: 120px 0;
-}
 
 
 .features-subtitle {
@@ -150,7 +143,6 @@ ol {
 /* Team Section */
 .team {
     background-color: #f4f4fd;
-    padding: 120px 0;
 }
 
 .team-title {
@@ -168,7 +160,6 @@ ol {
 }
 
 .team-info {
-    padding: 32px 0;
     text-align: center;
 }
 
@@ -188,9 +179,7 @@ ol {
 }
 
 /* Portfolio Section */
-.portfolio {
-    padding: 120px 0;
-}
+
 
 .portfolio-title {
     font-size: 36px;
@@ -203,7 +192,6 @@ ol {
 }
 
 .portfolio-info {
-    padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
 }
@@ -226,7 +214,6 @@ ol {
 /* Footer */
 .footer {
     background-color: #2e2f42;
-    padding: 100px 0;
 }
 
 .footer-logo {
